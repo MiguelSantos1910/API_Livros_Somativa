@@ -1,4 +1,4 @@
-# # 🌐 API REST e RESTful – Resumo
+# # 🌐 API REST e RESTful
 
 ## O que é uma API?
 **API (Application Programming Interface)** é uma interface que permite que sistemas, aplicativos e serviços se comuniquem entre si, trocando dados de forma padronizada.
